@@ -2,7 +2,7 @@
 
 #Pre-requisitos
 [Visual Studio 2022](https://microsoft.com) (con la carga de trabajo de **Desarrollo de escritorio de .NET** instalada)
-[.NET 8.0 SDK](https://microsoft.com) (o la versión que use tu proyecto)
+[.NET 8.0 SDK](https://microsoft.com)
 
 1. **Clonar el repositorio:**
    Click derecho en el escritorio > git bash (descargalo en https://git-scm.com/install/windows si no lo tenés)
@@ -14,7 +14,7 @@
 
 3. **Compilar y Ejecutar:**
    * Visual Studio restaurará automáticamente todos los paquetes NuGet necesarios al abrir o compilar el proyecto
-   * Presiona `F5` o haz clic en el botón **Iniciar (Start)** en la barra superior para compilar y ejecutar la aplicación WPF
+   * Presiona `F5` o hacé clic en el botón **Iniciar (Start)** en la barra superior para compilar y ejecutar la aplicación WPF
 
 
 ### Si sos un jugador
