@@ -1,6 +1,6 @@
 ### Si sos dev
 
-#Pre-requisitos
+Pre-requisitos
 [Visual Studio 2022](https://microsoft.com) (con la carga de trabajo de **Desarrollo de escritorio de .NET** instalada)
 [.NET 8.0 SDK](https://microsoft.com)
 
@@ -9,12 +9,12 @@
    > git clone https://github.comhttps://github.com/apiigz/HaxLauncher-DS-WU.git
 
 2. **Abrir el proyecto:**
-   * Anda a la carpeta donde clonaste el proyecto.
-   * Haz doble clic en el archivo `Launcher Haxball DS-WU.slnx` para abrirlo en Visual Studio 2022
+   * Anda a la carpeta donde clonaste el proyecto
+   * Hace doble clic en el archivo `Launcher Haxball DS-WU.slnx` para abrirlo en Visual Studio 2022
 
 3. **Compilar y Ejecutar:**
    * Visual Studio restaurará automáticamente todos los paquetes NuGet necesarios al abrir o compilar el proyecto
-   * Presiona `F5` o hacé clic en el botón **Iniciar (Start)** en la barra superior para compilar y ejecutar la aplicación WPF
+   * Presiona `F5` o hace clic en el botón **Iniciar (Start)** en la barra superior para compilar y ejecutar la aplicación WPF
 
 
 ### Si sos un jugador
